@@ -29,7 +29,7 @@ import "./"
 
 Item {
     id: rootItem
-
+    opacity: 0.99
     LayoutMirroring.enabled: Qt.application.layoutDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
 

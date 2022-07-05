@@ -1,3 +1,9 @@
+yoyo-desktop (0.9-1) UNRELEASED; urgency=high
+
+  * Initial release (YoyoOS)  <support@yoyoos.com>
+
+ -- YoyoOS Packaging Team <support@yoyoos.com>  Tue, 05 Jul 2022 10:50:07 +0800
+
 yoyo-desktop (0.8-1) UNRELEASED; urgency=high
 
   * Initial release (YoyoOS)  <support@yoyoos.com>

@@ -30,7 +30,7 @@ Depends: qml-module-qtquick-controls2,
          qml-module-qtquick-shapes,
          qml-module-qtquick-dialogs,
          qml-module-qtgraphicaleffects,
-         libyoyo,
+         libyoyo-filemanager,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: YoyoOS Desktop

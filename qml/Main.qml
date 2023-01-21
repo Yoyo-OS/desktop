@@ -81,7 +81,7 @@ Item {
         ScrollBar.vertical.policy: ScrollBar.AlwaysOff
 
         // Handle for topbar
-        topMargin: 28
+        // topMargin: 28
 
         // From dock
         leftMargin: Dock.leftMargin
